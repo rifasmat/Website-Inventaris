@@ -1,0 +1,119 @@
+INFO - 2023-12-14 08:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-14 08:16:01 --> Undefined variable $gudang
+in APPPATH\Views\admin\gudang\create.php on line 13.
+ 1 APPPATH\Views\admin\gudang\create.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gudang', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/gudang/create', [], true)
+ 5 APPPATH\Controllers\Admin\AdminGudangController.php(27): view('admin/gudang/create')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminGudangController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminGudangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2023-12-14 08:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-14 08:21:01 --> Undefined variable $data_gudang
+in APPPATH\Views\admin\gudang\create.php on line 10.
+ 1 APPPATH\Views\admin\gudang\create.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_gudang', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/gudang/create', [], true)
+ 5 APPPATH\Controllers\Admin\AdminGudangController.php(27): view('admin/gudang/create')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminGudangController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminGudangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2023-12-14 08:21:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-14 08:21:02 --> Undefined variable $data_gudang
+in APPPATH\Views\admin\gudang\create.php on line 10.
+ 1 APPPATH\Views\admin\gudang\create.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_gudang', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/gudang/create', [], true)
+ 5 APPPATH\Controllers\Admin\AdminGudangController.php(27): view('admin/gudang/create')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminGudangController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminGudangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2023-12-14 08:21:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-14 08:21:02 --> Undefined variable $data_gudang
+in APPPATH\Views\admin\gudang\create.php on line 10.
+ 1 APPPATH\Views\admin\gudang\create.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_gudang', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/gudang/create', [], true)
+ 5 APPPATH\Controllers\Admin\AdminGudangController.php(27): view('admin/gudang/create')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminGudangController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminGudangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2023-12-14 08:22:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-14 08:22:02 --> Undefined variable $komik
+in APPPATH\Views\admin\gudang\create.php on line 13.
+ 1 APPPATH\Views\admin\gudang\create.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $komik', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/gudang/create', [], true)
+ 5 APPPATH\Controllers\Admin\AdminGudangController.php(27): view('admin/gudang/create')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminGudangController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminGudangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2023-12-14 08:22:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-14 08:22:03 --> Undefined variable $komik
+in APPPATH\Views\admin\gudang\create.php on line 13.
+ 1 APPPATH\Views\admin\gudang\create.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $komik', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/gudang/create', [], true)
+ 5 APPPATH\Controllers\Admin\AdminGudangController.php(27): view('admin/gudang/create')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminGudangController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminGudangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2023-12-14 08:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-14 08:22:08 --> Undefined variable $gudang
+in APPPATH\Views\admin\gudang\create.php on line 13.
+ 1 APPPATH\Views\admin\gudang\create.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gudang', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\gudang\\create.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/gudang/create', [], true)
+ 5 APPPATH\Controllers\Admin\AdminGudangController.php(27): view('admin/gudang/create')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminGudangController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminGudangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2023-12-14 08:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:23:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:27:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-14 08:28:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,617 @@
+INFO - 2024-01-11 07:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:03:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 09:04:40 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\Login/LoginController::logout"
+in SYSTEMPATH\Router\Router.php on line 479.
+ 1 SYSTEMPATH\Router\Router.php(479): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\Login/LoginController::logout')
+ 2 SYSTEMPATH\Router\Router.php(186): CodeIgniter\Router\Router->checkRoutes('logout')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('logout')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 09:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:04:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 09:04:45 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\Login/LoginController::logout"
+in SYSTEMPATH\Router\Router.php on line 479.
+ 1 SYSTEMPATH\Router\Router.php(479): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\Login/LoginController::logout')
+ 2 SYSTEMPATH\Router\Router.php(186): CodeIgniter\Router\Router->checkRoutes('logout')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('logout')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 09:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:06:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 09:07:50 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\Login/LoginController::logout"
+in SYSTEMPATH\Router\Router.php on line 479.
+ 1 SYSTEMPATH\Router\Router.php(479): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\Login/LoginController::logout')
+ 2 SYSTEMPATH\Router\Router.php(186): CodeIgniter\Router\Router->checkRoutes('logout')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('logout')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 09:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:35:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:35:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 09:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 09:58:36 --> Undefined variable $barang
+in APPPATH\Views\admin\barang\edit.php on line 9.
+ 1 APPPATH\Views\admin\barang\edit.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $barang', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('15')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 09:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:17:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:19:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:20:13 --> Trying to access array offset on value of type null
+in APPPATH\Views\admin\barang\edit.php on line 9.
+ 1 APPPATH\Views\admin\barang\edit.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('15')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:20:15 --> Trying to access array offset on value of type null
+in APPPATH\Views\admin\barang\edit.php on line 9.
+ 1 APPPATH\Views\admin\barang\edit.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('15')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:44:36 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:47:26 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:47:26 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:47:26 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:47:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:47:27 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:47:47 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:47:48 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:49:51 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(146): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:49:52 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(146): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:49:53 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(146): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:49:53 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(146): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:49:53 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(146): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:49:53 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(146): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:50:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:50:10 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:50:11 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:50:11 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:50:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:50:27 --> Undefined variable $data_ruangan
+in APPPATH\Views\admin\barang\edit.php on line 45.
+ 1 APPPATH\Views\admin\barang\edit.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_ruangan', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 45)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(145): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:51:32 --> Undefined array key "id"
+in APPPATH\Views\admin\barang\edit.php on line 46.
+ 1 APPPATH\Views\admin\barang\edit.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 46)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(151): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:51:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 12:51:33 --> Undefined array key "id"
+in APPPATH\Views\admin\barang\edit.php on line 46.
+ 1 APPPATH\Views\admin\barang\edit.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php', 46)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\barang\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/barang/edit', [], true)
+ 5 APPPATH\Controllers\Admin\AdminBarangController.php(151): view('admin/barang/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminBarangController->edit('14')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminBarangController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 12:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:59:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:59:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 12:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 13:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 15:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 15:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 15:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 19:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 19:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 19:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-11 19:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:25:01 --> Call to undefined method CodeIgniter\View\View::encryptId()
+in APPPATH\Views\admin\suplier\list.php on line 49.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:26:00 --> Call to undefined method CodeIgniter\View\View::encryptId()
+in APPPATH\Views\admin\suplier\list.php on line 49.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:26:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:26:01 --> Call to undefined method CodeIgniter\View\View::encryptId()
+in APPPATH\Views\admin\suplier\list.php on line 49.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:26:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:26:01 --> Call to undefined method CodeIgniter\View\View::encryptId()
+in APPPATH\Views\admin\suplier\list.php on line 49.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:26:30 --> Encrypter needs a starter key.
+in SYSTEMPATH\Encryption\Encryption.php on line 126.
+ 1 SYSTEMPATH\Encryption\Encryption.php(126): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(252): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(21): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 APPPATH\Views\admin\suplier\list.php(49): App\Controllers\Admin\AdminSuplierController::encryptId('6')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\suplier\\list.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 9 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:26:31 --> Encrypter needs a starter key.
+in SYSTEMPATH\Encryption\Encryption.php on line 126.
+ 1 SYSTEMPATH\Encryption\Encryption.php(126): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(252): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(21): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 APPPATH\Views\admin\suplier\list.php(49): App\Controllers\Admin\AdminSuplierController::encryptId('6')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\suplier\\list.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 9 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:28:03 --> Encrypter needs a starter key.
+in SYSTEMPATH\Encryption\Encryption.php on line 126.
+ 1 SYSTEMPATH\Encryption\Encryption.php(126): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(252): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(21): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 APPPATH\Views\admin\suplier\list.php(49): App\Controllers\Admin\AdminSuplierController::encryptId('6')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\suplier\\list.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 9 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:28:03 --> Encrypter needs a starter key.
+in SYSTEMPATH\Encryption\Encryption.php on line 126.
+ 1 SYSTEMPATH\Encryption\Encryption.php(126): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(252): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(21): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 APPPATH\Views\admin\suplier\list.php(49): App\Controllers\Admin\AdminSuplierController::encryptId('6')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\suplier\\list.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 9 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:28:28 --> Encrypter needs a starter key.
+in SYSTEMPATH\Encryption\Encryption.php on line 126.
+ 1 SYSTEMPATH\Encryption\Encryption.php(126): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(252): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(21): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 APPPATH\Views\admin\suplier\list.php(49): App\Controllers\Admin\AdminSuplierController::encryptId('6')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\suplier\\list.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 9 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:29:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:29:51 --> Encrypter needs a starter key.
+in SYSTEMPATH\Encryption\Encryption.php on line 126.
+ 1 SYSTEMPATH\Encryption\Encryption.php(126): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(252): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(21): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 APPPATH\Views\admin\suplier\list.php(49): App\Controllers\Admin\AdminSuplierController::encryptId('6')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\suplier\\list.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 9 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:29:52 --> Encrypter needs a starter key.
+in SYSTEMPATH\Encryption\Encryption.php on line 126.
+ 1 SYSTEMPATH\Encryption\Encryption.php(126): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(252): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(21): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 APPPATH\Views\admin\suplier\list.php(49): App\Controllers\Admin\AdminSuplierController::encryptId('6')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\suplier\\list.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 9 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:29:52 --> Encrypter needs a starter key.
+in SYSTEMPATH\Encryption\Encryption.php on line 126.
+ 1 SYSTEMPATH\Encryption\Encryption.php(126): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(252): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(21): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 APPPATH\Views\admin\suplier\list.php(49): App\Controllers\Admin\AdminSuplierController::encryptId('6')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\suplier\\list.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 9 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-11 19:29:52 --> Encrypter needs a starter key.
+in SYSTEMPATH\Encryption\Encryption.php on line 126.
+ 1 SYSTEMPATH\Encryption\Encryption.php(126): CodeIgniter\Encryption\Exceptions\EncryptionException::forNeedsStarterKey()
+ 2 SYSTEMPATH\Config\Services.php(252): CodeIgniter\Encryption\Encryption->initialize(Object(Config\Encryption))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::encrypter()
+ 4 APPPATH\Controllers\Admin\AdminSuplierController.php(21): CodeIgniter\Config\BaseService::__callStatic('encrypter', [])
+ 5 APPPATH\Views\admin\suplier\list.php(49): App\Controllers\Admin\AdminSuplierController::encryptId('6')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\Xampp\\htdocs\\inventaris_ci4\\app\\Views\\admin\\suplier\\list.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/suplier/list', [], true)
+ 9 APPPATH\Controllers\Admin\AdminSuplierController.php(35): view('admin/suplier/list', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin\AdminSuplierController->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AdminSuplierController))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Xampp\\htdocs\\inventaris_ci4\\public\\index.php')
+INFO - 2024-01-11 19:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
