@@ -1,0 +1,19 @@
+/* Laporan Tanda Tangan */
+
+.tanda-tangan {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tanda-tangan section {
+    width: 48%;
+    /* Mengatur lebar agar berada sejajar */
+}
+
+section h5 {
+    margin-top: 5%;
+}
+
+section h4 {
+    margin-top: 45%;
+}
